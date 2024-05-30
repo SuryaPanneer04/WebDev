@@ -1,0 +1,31 @@
+/* Write your code here: */
+
+                         /* Css Selector types */
+
+
+/* Group Selector */  
+h1,h2{
+    color: blueviolet;
+}
+/* child selector */
+.box >p{
+    color: firebrick;
+}
+ 
+/* .list{
+    color: blue;
+} */
+.list li{
+    color: blue;
+}
+/* chaining selector is elementClassId Chaining  */
+li.done{   
+    color: seagreen;   
+}
+/* Combining combiners Selector */
+ul p.done{
+    font-size: 0.5rem;
+}
+p,#none{
+    color:gold ;
+}

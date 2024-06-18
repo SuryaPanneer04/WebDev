@@ -1,0 +1,13 @@
+/* body{
+    background-color: red;
+} */
+
+.display{
+    font-size: 8rem;
+    font-weight: bolder;
+    color: rgb(255, 0, 0);
+    font-family: cursive;
+}
+.margin-50{
+    margin-left: 150px;
+}

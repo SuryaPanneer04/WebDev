@@ -45,7 +45,7 @@ function makeSound(key) {
       var tom4 = new Audio('sounds/tom-4.mp3');
       tom4.play();
       break;
-
+      
     case "j":
       var snare = new Audio('sounds/snare.mp3');
       snare.play();

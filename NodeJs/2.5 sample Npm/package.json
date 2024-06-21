@@ -1,0 +1,16 @@
+
+{
+  "type": "module",
+  "name": "sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "surya",
+  "license": "ISC",
+  "description": "learn npm",
+  "dependencies": {
+    "random-words": "^2.0.1"
+  }
+}

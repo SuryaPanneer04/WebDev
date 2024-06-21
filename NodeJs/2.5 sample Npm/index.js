@@ -9,3 +9,4 @@ console.log(
       formatter: (word) => word.toUpperCase(),
     })
   );
+  

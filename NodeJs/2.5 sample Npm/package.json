@@ -1,4 +1,3 @@
-
 {
   "type": "module",
   "name": "sample",
@@ -11,6 +10,7 @@
   "license": "ISC",
   "description": "learn npm",
   "dependencies": {
+    "@govuk-react/search-box": "^0.10.7",
     "random-words": "^2.0.1"
   }
 }

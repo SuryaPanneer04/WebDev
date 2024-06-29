@@ -1,0 +1,12 @@
+{
+  "name": "webdev",
+  "version": "1.0.0",
+  "description": "I am learning the Full Stack Web Development in improve my personal skill .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
